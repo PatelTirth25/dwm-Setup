@@ -1,9 +1,0 @@
-#!/bin/bash
-
-datetime() {
-	date +"%d-%m  %H:%M "
-}
-
-
-datetime
-
